@@ -1,7 +1,7 @@
 # hello-world
 another repository
 <!DOCTYPE.html>
- <link rel="stylesheet" type="text/css" href="style.css">
+<link type="text/css" rel="stylesheet" href="/stylesheet/main.css" />
 <html>
 <head>
 <title>LRC</title>
